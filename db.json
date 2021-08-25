@@ -1,0 +1,15 @@
+{
+  "bookings": [
+    {
+      "id": 1234,
+      "customerName": "John Doe",
+      "phoneNumber": "+13123123",
+      "bookedOn": "1/07/21",
+      "timeSlot": "9:00 am-1:00 pm",
+      "frequency": "One-time",
+      "address": "Home",
+      "sweeperName": "Leroy Francis",
+      "price": "28.00"
+    }
+  ]
+}

@@ -9,7 +9,24 @@
       "frequency": "One-time",
       "address": "Home",
       "sweeperName": "Leroy Francis",
-      "price": "28.00"
+      "price": "28.00",
+      "paymentMethod": "Cash",
+      "status": "Confirmed",
+      "sweeperId": 123454
+    },
+    {
+      "id": 1235,
+      "customerName": "Samir Kak",
+      "phoneNumber": "+345354645",
+      "bookedOn": "20/05/22",
+      "timeSlot": "1:30 pm-5:30 pm",
+      "frequency": "Weekly",
+      "address": "Office",
+      "sweeperName": "Brent Matthews",
+      "price": "28.00",
+      "paymentMethod": "Cash",
+      "status": "Done",
+      "sweeperId": 34545645
     }
   ]
 }

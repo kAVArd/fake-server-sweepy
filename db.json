@@ -18,7 +18,7 @@
       "id": 1235,
       "customerName": "Samir Kak",
       "phoneNumber": "+345354645",
-      "bookedOn": "11/05/22",
+      "bookedOn": "20/05/22",
       "timeSlot": "1:30 pm-5:30 pm",
       "frequency": "Weekly",
       "address": "Office",
@@ -26,8 +26,47 @@
       "price": "28.00",
       "paymentMethod": "Cash",
       "status": "Done",
-      "rating": 5,
       "sweeperId": 34545645
+    }
+  ],
+  "sweepers": [
+    {
+      "id": 435343,
+      "avatar": "https://previews.123rf.com/images/vectorpocket/vectorpocket1807/vectorpocket180700541/105210318-vector-3d-faceless-human-model-blank-dummy-part-of-male-or-female-body-isolated-on-background-mockup.jpg",
+      "name": "Christopher Nolan",
+      "phoneNumber": "+235345345345",
+      "gender": "Male",
+      "onboarding": "1/07/2021",
+      "contract": "A",
+      "workDays": "S, M, TU, W, F",
+      "workTimes": "M, A",
+      "firstBookingDate": "1/07/2021",
+      "lastBookingDate": "21/07/2021",
+      "activeTime": "3 m 24 d",
+      "commission": "0.6",
+      "revenue": "5340.00",
+      "uncompletedSessions": "24",
+      "unratedSessions": "12",
+      "rating": 5
+    },
+    {
+      "id": 435343,
+      "avatar": "https://previews.123rf.com/images/vectorpocket/vectorpocket1807/vectorpocket180700541/105210318-vector-3d-faceless-human-model-blank-dummy-part-of-male-or-female-body-isolated-on-background-mockup.jpg",
+      "name": "Karen Gillan",
+      "phoneNumber": "+235345345345",
+      "gender": "Female",
+      "onboarding": "1/07/2021",
+      "contract": "B",
+      "workDays": "S, TU, W, TH",
+      "workTimes": "M",
+      "firstBookingDate": "1/07/2021",
+      "lastBookingDate": "21/07/2021",
+      "activeTime": "5 m 2 d",
+      "commission": "0.6",
+      "revenue": "5340.00",
+      "uncompletedSessions": "24",
+      "unratedSessions": "12",
+      "rating": 5
     }
   ]
 }

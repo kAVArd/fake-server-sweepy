@@ -31,7 +31,7 @@
   ],
   "sweepers": [
     {
-      "id": 435341,
+      "id": 435343,
       "avatar": "https://previews.123rf.com/images/vectorpocket/vectorpocket1807/vectorpocket180700541/105210318-vector-3d-faceless-human-model-blank-dummy-part-of-male-or-female-body-isolated-on-background-mockup.jpg",
       "name": "Christopher Nolan",
       "phoneNumber": "+235345345345",
@@ -50,10 +50,10 @@
       "rating": 5
     },
     {
-      "id": 5,
+      "id": 435343,
       "avatar": "https://previews.123rf.com/images/vectorpocket/vectorpocket1807/vectorpocket180700541/105210318-vector-3d-faceless-human-model-blank-dummy-part-of-male-or-female-body-isolated-on-background-mockup.jpg",
       "name": "Karen Gillan",
-      "phoneNumber": "+23534534",
+      "phoneNumber": "+235345345345",
       "gender": "Female",
       "onboarding": "1/07/2021",
       "contract": "B",
@@ -63,10 +63,69 @@
       "lastBookingDate": "21/07/2021",
       "activeTime": "5 m 2 d",
       "commission": "0.6",
-      "revenue": "534.00",
+      "revenue": "5340.00",
       "uncompletedSessions": "24",
       "unratedSessions": "12",
-      "rating": 4.8
+      "rating": 5
+    }
+  ],
+  "customers": [
+    {
+      "id": 1,
+      "name": "Christopher Nolan",
+      "phoneNumber": "+13123123",
+      "gender":"Female",
+      "address": "Office",
+      "email": "example@email.com",
+      "dateBirth": "22/07/1991",
+      "appDownloadDate": "18/07/2021",
+      "firstSessionDate": "18/07/2021",
+      "lastSessionDate": "18/09/2021",
+      "noCompleted": 4,
+      "noRescheduled": 2,
+      "noCanceled": 0,
+      "lifeTime": 5657,
+      "favoriteSweepy": "Troy Webb",
+      "rating": 5,
+      "status": "Active"
+    },
+    {
+      "id": 2,
+      "name": "Christopher Nolan",
+      "phoneNumber": "+13123123",
+      "gender":"Female",
+      "address": "Office",
+      "email": "example@email.com",
+      "dateBirth": "22/07/1991",
+      "appDownloadDate": "18/07/2021",
+      "firstSessionDate": "18/07/2021",
+      "lastSessionDate": "18/09/2021",
+      "noCompleted": 4,
+      "noRescheduled": 2,
+      "noCanceled": 0,
+      "lifeTime": 5657,
+      "favoriteSweepy": "Troy Webb",
+      "rating": 5,
+      "status": "Active"
+    },
+    {
+      "id": 3,
+      "name": "Christopher Nolan",
+      "phoneNumber": "+13123123",
+      "gender":"Female",
+      "address": "Office",
+      "email": "example@email.com",
+      "dateBirth": "22/07/1991",
+      "appDownloadDate": "18/07/2021",
+      "firstSessionDate": "18/07/2021",
+      "lastSessionDate": "18/09/2021",
+      "noCompleted": 4,
+      "noRescheduled": 2,
+      "noCanceled": 0,
+      "lifeTime": 5657,
+      "favoriteSweepy": "Troy Webb",
+      "rating": 5,
+      "status": "Active"
     }
   ]
 }

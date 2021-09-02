@@ -32,7 +32,7 @@
   "sweepers": [
     {
       "id": 435343,
-      "avatar": "https://previews.123rf.com/images/vectorpocket/vectorpocket1807/vectorpocket180700541/105210318-vector-3d-faceless-human-model-blank-dummy-part-of-male-or-female-body-isolated-on-background-mockup.jpg",
+      "avatar": "https://w3schoolsrus.github.io/w3images/avatar2.png",
       "name": "Christopher Nolan",
       "phoneNumber": "+235345345345",
       "gender": "Male",
@@ -51,7 +51,7 @@
     },
     {
       "id": 435343,
-      "avatar": "https://previews.123rf.com/images/vectorpocket/vectorpocket1807/vectorpocket180700541/105210318-vector-3d-faceless-human-model-blank-dummy-part-of-male-or-female-body-isolated-on-background-mockup.jpg",
+      "avatar": "https://w3schoolsrus.github.io/w3images/avatar2.png",
       "name": "Karen Gillan",
       "phoneNumber": "+235345345345",
       "gender": "Female",
@@ -73,7 +73,7 @@
     {
       "id": 1,
       "name": "Christopher Nolan",
-      "avatar": "https://previews.123rf.com/images/vectorpocket/vectorpocket1807/vectorpocket180700541/105210318-vector-3d-faceless-human-model-blank-dummy-part-of-male-or-female-body-isolated-on-background-mockup.jpg",
+      "avatar": "https://w3schoolsrus.github.io/w3images/avatar2.png",
       "phoneNumber": "+13123123",
       "gender":"Female",
       "address": "Office",
@@ -93,7 +93,7 @@
     {
       "id": 2,
       "name": "Christopher Nolan",
-      "avatar": "https://previews.123rf.com/images/vectorpocket/vectorpocket1807/vectorpocket180700541/105210318-vector-3d-faceless-human-model-blank-dummy-part-of-male-or-female-body-isolated-on-background-mockup.jpg",
+      "avatar": "https://w3schoolsrus.github.io/w3images/avatar2.png",
       "phoneNumber": "+13123123",
       "gender":"Female",
       "address": "Office",
@@ -113,7 +113,7 @@
     {
       "id": 3,
       "name": "Alan Walker",
-      "avatar": "https://previews.123rf.com/images/vectorpocket/vectorpocket1807/vectorpocket180700541/105210318-vector-3d-faceless-human-model-blank-dummy-part-of-male-or-female-body-isolated-on-background-mockup.jpg",
+      "avatar": "https://w3schoolsrus.github.io/w3images/avatar2.png",
       "phoneNumber": "+13123123",
       "gender":"Female",
       "address": "Office",

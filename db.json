@@ -13,6 +13,7 @@
       "price": "28.00",
       "paymentMethod": "Cash",
       "status": "Confirmed",
+      "rating": 5,
       "sweeperId": 123454
     },
     {

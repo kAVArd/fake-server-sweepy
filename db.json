@@ -109,7 +109,7 @@
       "noRescheduled": 2,
       "noCanceled": 0,
       "lifeTime": 5657,
-      "favouriteSweepers": [
+      "favoriteSweepers": [
         {
           "id": 12,
           "avatar": "https://w3schoolsrus.github.io/w3images/avatar2.png",
@@ -145,7 +145,7 @@
       "noRescheduled": 2,
       "noCanceled": 0,
       "lifeTime": 5657,
-      "favouriteSweepers": [
+      "favoriteSweepers": [
         {
           "id": 12,
           "avatar": "https://w3schoolsrus.github.io/w3images/avatar2.png",

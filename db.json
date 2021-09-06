@@ -109,7 +109,23 @@
       "noRescheduled": 2,
       "noCanceled": 0,
       "lifeTime": 5657,
-      "favoriteSweepy": "Troy Webb",
+      "favouriteSweepers": [
+        {
+          "id": 12,
+          "avatar": "https://w3schoolsrus.github.io/w3images/avatar2.png",
+          "name": "John Newman",
+        },
+        {
+          "id": 13,
+          "avatar": "https://w3schoolsrus.github.io/w3images/avatar2.png",
+          "name": "Alan Walker",
+        },
+        {
+          "id": 14,
+          "avatar": "https://w3schoolsrus.github.io/w3images/avatar2.png",
+          "name": "Barak Obama",
+        },
+      ],
       "rating": 5,
       "status": "Active"
     },
@@ -129,7 +145,23 @@
       "noRescheduled": 2,
       "noCanceled": 0,
       "lifeTime": 5657,
-      "favoriteSweepy": "Troy Webb",
+      "favouriteSweepers": [
+        {
+          "id": 12,
+          "avatar": "https://w3schoolsrus.github.io/w3images/avatar2.png",
+          "name": "John Newman",
+        },
+        {
+          "id": 13,
+          "avatar": "https://w3schoolsrus.github.io/w3images/avatar2.png",
+          "name": "Alan Walker",
+        },
+        {
+          "id": 14,
+          "avatar": "https://w3schoolsrus.github.io/w3images/avatar2.png",
+          "name": "Barak Obama",
+        },
+      ],
       "rating": 5,
       "status": "Active"
     }

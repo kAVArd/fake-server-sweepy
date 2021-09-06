@@ -113,18 +113,18 @@
         {
           "id": 12,
           "avatar": "https://w3schoolsrus.github.io/w3images/avatar2.png",
-          "name": "John Newman",
+          "name": "John Newman"
         },
         {
           "id": 13,
           "avatar": "https://w3schoolsrus.github.io/w3images/avatar2.png",
-          "name": "Alan Walker",
+          "name": "Alan Walker"
         },
         {
           "id": 14,
           "avatar": "https://w3schoolsrus.github.io/w3images/avatar2.png",
-          "name": "Barak Obama",
-        },
+          "name": "Barak Obama"
+        }
       ],
       "rating": 5,
       "status": "Active"
@@ -149,18 +149,18 @@
         {
           "id": 12,
           "avatar": "https://w3schoolsrus.github.io/w3images/avatar2.png",
-          "name": "John Newman",
+          "name": "John Newman"
         },
         {
           "id": 13,
           "avatar": "https://w3schoolsrus.github.io/w3images/avatar2.png",
-          "name": "Alan Walker",
+          "name": "Alan Walker"
         },
         {
           "id": 14,
           "avatar": "https://w3schoolsrus.github.io/w3images/avatar2.png",
-          "name": "Barak Obama",
-        },
+          "name": "Barak Obama"
+        }
       ],
       "rating": 5,
       "status": "Active"
